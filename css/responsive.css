@@ -1,0 +1,977 @@
+@media only screen and (min-width: 1430px) {
+    .team_slider,
+    .rest_of_team .title_main {
+        margin-left: 70px;
+    }
+
+    .pl_50 {
+        padding-left: 70px !important;
+    }
+
+    .pr_50 {
+        padding-right: 70px !important;
+    }
+}
+
+@media only screen and (min-width: 1581px) {
+    .team_slider,
+    .rest_of_team .title_main {
+        margin-left: 150px;
+    }
+
+    .pl_50 {
+        padding-left: 150px !important;
+    }
+
+    .pr_50 {
+        padding-right: 150px !important;
+    }
+}
+
+@media only screen and (min-width: 1750px) {
+    .team_slider,
+    .rest_of_team .title_main {
+        margin-left: 240px;
+    }
+
+    .pl_50 {
+        padding-left: 240px !important;
+    }
+
+    .pr_50 {
+        padding-right: 240px !important;
+    }
+}
+
+@media only screen and (min-width: 1899px) {
+    .team_slider,
+    .rest_of_team .title_main {
+        margin-left: 310px;
+    }
+
+    .pl_50 {
+        padding-left: 310px !important;
+    }
+
+    .pr_50 {
+        padding-right: 310px !important;
+    }
+}
+
+@media only screen and (max-width: 1281px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 38px;
+    }
+
+    .container-medium {
+        max-width: 980px;
+    }
+
+    .sector_wrapp_left {
+        padding-right: 30px;
+    }
+
+    .sector_wrapp_right {
+        padding: 80px 0 80px 30px;
+    }
+
+    .insight_banner_inner {
+        width: 80%;
+    }
+
+    .event_location {
+        padding: 30px 0;
+    }
+
+    .event_location_left ul li span {
+        font-size: 12px;
+    }
+
+    .event_location_left ul li {
+        padding-right: 10px;
+        margin-right: 10px;
+    }
+
+    .careers_menu ul li a {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .mobile_header {
+        display: block;
+        position: fixed;
+        z-index: 999;
+        padding: 10px 0;
+        width: 100%;
+        top: 0;
+        left: 0;
+        background: #fff;
+        box-shadow: 0px 5px 5px rgb(0 0 0 / 7%);
+    }
+
+    .search-container {
+        top: 46px;
+    }
+
+    .main_header {
+        display: none;
+    }
+
+    main {
+        margin-top: 70px;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    p.big {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .container-medium {
+        max-width: 760px;
+    }
+
+    .search_form {
+        width: 100%;
+    }
+
+    .enterprise_inner ul li {
+        width: 31%;
+    }
+
+    .peaple_wrapp_left {
+        padding: 50px 10px 0 10px;
+    }
+
+    .peaple_wrapp_right {
+        margin-top: -50px;
+    }
+
+    .enterprise {
+        padding: 50px 0 110px;
+    }
+
+    .about_wrapp {
+        padding: 110px 0 80px;
+    }
+
+    .about_wrapp_bottom_inner h2 {
+        font-size: 40px;
+    }
+
+    .sector_wrapp_right {
+        padding: 30px 0 30px 30px;
+    }
+
+    .sector_wrapp_right h3 {
+        margin: 0 0 20px;
+    }
+
+    .copyright ul li {
+        padding-right: 20px;
+    }
+
+    .case_stydy_slider_inner {
+        padding: 50px 30px 50px 110px;
+    }
+
+    .case_stydy_slider_img {
+        margin-right: -90px;
+    }
+
+    .career_highlights {
+        padding: 60px 0 100px;
+    }
+
+    .career_highlights ul li {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .case_study .title_main {
+        width: 100%;
+    }
+
+    .case_stydy_slider .swiper-button-next {
+        left: 47%;
+        top: 93%;
+    }
+
+    .case_stydy_slider .swiper-button-prev {
+        left: 40%;
+        top: 93%;
+    }
+
+    .awards_wrapp {
+        padding: 50px 0;
+    }
+
+    .contact_box {
+        left: -30px;
+    }
+
+    .contact_wrapp_main .title_main {
+        padding-right: 30px;
+    }
+
+    .rest_of_team {
+        padding: 80px 0 50px;
+    }
+
+    .law_services_inner h4 a {
+        font-size: 18px;
+    }
+
+    .law_services .title_main {
+        width: 100%;
+    }
+
+    .contact_help_slider_in .image-slider__fraction {
+        right: 54px;
+    }
+
+    .contact_help_inner .title_main {
+        padding-right: 0;
+    }
+
+    .contact_help .swiper-button-next,
+    .contact_help .swiper-button-prev {
+        top: 80%;
+    }
+
+    .contact_help {
+        padding: 50px 0 80px;
+    }
+
+    .blog_box .blog_img img {
+        transition: 0.5s ease;
+        width: 100%;
+    }
+
+    .event_banner .insight_banner_inner {
+        width: 100%;
+    }
+
+    .insight_detail_in {
+        padding-right: 0;
+        margin: 0 0 50px;
+    }
+
+    .event_location {
+        padding: 0;
+    }
+
+    .event_location_left {
+        max-width: 100%;
+        margin-left: auto;
+        padding: 50px 10px;
+    }
+
+    .event_banner .container-medium {
+        padding: 0;
+    }
+
+    .speaker ul li {
+        width: 50%;
+        margin: 0 0 30px;
+    }
+
+    .vaccancies {
+        padding: 60px 0;
+    }
+
+    .vaccancies .title_main {
+        width: 100%;
+    }
+
+    .about_wrapp_one_inner {
+        padding: 70px 90px 70px 30px;
+    }
+
+    .value_wrapp:before {
+        left: 60%;
+        height: 130px;
+    }
+
+    .about_wrapp_one.second .about_wrapp_one_inner {
+        padding: 70px 30px 70px 90px;
+    }
+
+    .careers_location_text {
+        padding: 50px 10px;
+    }
+
+    .value_wrapp .title_main {
+        margin-bottom: 40px;
+    }
+
+    .value_main .value_box {
+        width: 85%;
+        padding-bottom: 50px;
+    }
+
+    .instagram_wrapp {
+        padding: 60px 0;
+    }
+
+    .about_wrapp_one {
+        padding: 60px 0;
+    }
+
+    .about_section:before {
+        width: 100%;
+    }
+
+    .contact_us,
+    .office_address {
+        padding: 60px 0;
+    }
+
+
+
+    .keynote_speaker .keynote_speaker_img img {
+        width: 200px;
+        height: 200px;
+    }
+    .keynote_speaker_text {
+        padding-top: 0;
+    }
+    .keynote_speaker .swiper-wrapper {
+        padding-bottom: 50px;
+    }
+    .keynote_speaker .swiper-button-next {
+        left: 42%;
+    }
+    .keynote_speaker .swiper-pagination {
+        bottom: 40px;
+    }
+    .keynote_speaker .image-slider__fraction {
+        bottom: 35px;
+    }
+}
+
+
+@media only screen and (max-width: 767px) {
+    .banner_text.pl_50 {
+        text-align: center;
+        padding: 100px !important;
+    }
+
+    .peaple_wrapp_left {
+        margin-left: 0;
+        max-width: initial;
+    }
+
+    .peaple_wrapp_right {
+        margin-top: 10px;
+        padding: 0 10px;
+    }
+
+    .pl_50 {
+        padding-left: 10px !important;
+    }
+
+    .pr_50 {
+        padding-right: 10px !important;
+    }
+
+    .sector_wrapp_left {
+        max-width: 100%;
+        margin-left: 0;
+        padding: 50px 10px;
+    }
+
+    .sector_wrapp_right {
+        padding: 30px 0 30px 10px;
+    }
+
+    .information_hub_inner {
+        margin-left: auto;
+        max-width: 100%;
+        padding: 0 0 30px;
+    }
+
+    .information_hub {
+        padding: 50px 0 50px 10px;
+    }
+
+    .about_wrapp_bottom_inner {
+        margin: 0 0 50px;
+    }
+
+    .about_wrapp {
+        padding: 90px 0 40px;
+    }
+
+    .copyright ul {
+        text-align: center;
+    }
+
+    .copyright_text {
+        text-align: center;
+        margin: 20px 0 0;
+    }
+
+    .footer_logo {
+        text-align: center;
+    }
+
+    .social_icon {
+        text-align: center;
+        margin: 40px 0 0;
+    }
+
+    .social_icon ul li {
+        margin-right: 10px;
+    }
+
+    .footer_links {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .locations {
+        padding: 15px 0 20px;
+        text-align: center;
+    }
+
+    .locations ul li:first-child {
+        display: block;
+        margin: 0 0 10px;
+    }
+
+    .enterprise {
+        padding: 50px 0;
+    }
+
+    .sector_wrapp_right_inner {
+        max-width: 100%;
+    }
+
+    .career_highlights ul li:last-child {
+        margin: 0 0 30px;
+    }
+
+    .career_highlights ul li {
+        margin: 0 0 30px;
+    }
+
+    .case_study {
+        padding: 60px 0;
+    }
+
+    .case_stydy_slider_inner {
+        padding: 90px 20px 20px 20px;
+    }
+
+    .case_stydy_slider_img {
+        width: 95%;
+        margin: 0 auto -70px;
+    }
+
+    .case_stydy_slider_img img {
+        width: 100%;
+    }
+
+    .case_stydy_slider .swiper-button-next,
+    .case_stydy_slider .swiper-button-prev {
+        top: 96%;
+    }
+
+    .awards_wrapp_text {
+        margin-top: 30px;
+    }
+
+    .contact_wrapp_main .title_main {
+        padding-right: 0;
+        padding-top: 50px;
+    }
+
+    .contact_wrapp_main_img img {
+        width: 100%;
+    }
+
+    .contact_box {
+        left: -30px;
+        bottom: -90px;
+    }
+
+    .contact_wrapp_main_img {
+        margin-left: 30px;
+    }
+
+    .law_services_inner {
+        margin: 0 0 30px;
+    }
+
+    .about_wrapp.second {
+        padding: 100px 0 80px;
+    }
+
+    .awards_wrapp.second {
+        padding: 0 10px 50px;
+    }
+
+    .contact_help_slider .swiper-wrapper {
+        margin-left: 0;
+    }
+
+    .contact_help_slider_in .swiper-pagination {
+        bottom: -20px;
+    }
+
+    .contact_help_slider_in .image-slider__fraction {
+        bottom: -26px;
+    }
+
+    .contact_help .swiper-button-next, .contact_help .swiper-button-prev {
+        top: inherit;
+        bottom: -40px;
+    }
+
+    .contact_help .swiper-button-prev {
+        left: 38%;
+    }
+
+    .contact_help .swiper-button-next {
+        left: 45%;
+    }
+
+    .expertise_main_banner_text {
+        margin: 0 0 30px;
+    }
+
+    .about_section_text {
+        padding: 60px 10px 60px 0;
+    }
+
+    .about_wrapp_one_img,
+    .about_wrapp_one.second .about_wrapp_one_img {
+        margin-left: 0;
+        width: 95%;
+        margin: -60px auto 0;
+    }
+
+    .about_wrapp_one_img img,
+    .about_wrapp_one.second .about_wrapp_one_img img {
+        width: 100%;
+    }
+
+    .about_wrapp_one_inner,
+    .about_wrapp_one.second .about_wrapp_one_inner {
+        padding: 40px 40px 100px 40px;
+    }
+
+    .instagram_post a img {
+        width: 100%;
+    }
+
+    .job_detail_main_inner {
+        padding-right: 0;
+    }
+
+    .job_detail_main_right {
+        margin-top: 30px;
+    }
+
+    .about_section_text {
+        padding: 60px 10px;
+        max-width: 100%;
+    }
+
+    .about_wrapp.third {
+        padding: 60px 0 30px;
+    }
+
+    .awards_wrapp_text.second {
+        padding: 0 0 60px;
+    }
+
+    .contact_us_text {
+        padding-right: 0;
+        padding-bottom: 30px;
+    }
+
+
+    .keynote_speaker_img{
+        text-align: center;
+    }
+    .keynote_speaker_text{
+        text-align: center;
+        padding-top: 20px;
+    }
+    .keynote_speaker .swiper-wrapper {
+        padding-bottom: 120px;
+    }
+    .keynote_speaker .swiper-button-prev {
+        left: 0;
+    }
+    .keynote_speaker .swiper-button-next {
+        left: 50px;
+    }
+    .keynote_speaker .swiper-pagination {
+        bottom: 71px;
+        width: 78%;
+        left: 120px;
+    }
+    .keynote_speaker .image-slider__fraction {
+        bottom: 65px;
+    }
+}
+
+@media only screen and (max-width: 481px) {
+    .banner_text.pl_50 {
+        padding: 70px 30px !important;
+    }
+
+    .enterprise .title_main {
+        max-width: 100%;
+    }
+
+    .enterprise_inner ul li {
+        width: 80%;
+    }
+
+    .enterprise_inner ul li a {
+        padding: 0 0 10px;
+        margin: 0 0 20px;
+    }
+
+    .about_wrapp .title_main {
+        width: 100%;
+    }
+
+    .copyright ul li a {
+        line-height: 35px;
+    }
+
+    .peaple_wrapp_form {
+        padding-right: 0 !important;
+    }
+
+    .footer_links ul li a {
+        line-height: 40px;
+    }
+
+    .footer_links ul li {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .locations ul li {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .locations ul li a {
+        line-height: 30px;
+    }
+
+    .info_slider .swiper-pagination {
+        width: 75%;
+    }
+
+    .people_search ul {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .people_search ul li {
+        padding: 5px 0;
+        width: 100%;
+    }
+
+    .people_search ul li select.form-select {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .inner_banner:after {
+        display: none;
+    }
+
+    .inner_banner:before {
+        width: 100%;
+    }
+
+    .people_wrapp_top_inner ul {
+        flex-wrap: wrap;
+    }
+
+    .people_wrapp_top_inner ul li {
+        padding-right: 0;
+        margin: 0 0 10px;
+        display: block;
+        width: 100%;
+    }
+
+    .excel_wrapp ul li {
+        width: 100%;
+        margin: 0 0 20px;
+    }
+
+    .case_stydy_slider .swiper-button-prev {
+        left: 0;
+    }
+
+    .case_stydy_slider .swiper-button-next {
+        left: 50px;
+    }
+
+    .case_stydy_slider .swiper-pagination {
+        bottom: 23px;
+        width: 55%;
+        left: 110px;
+    }
+
+    .image-slider__fraction {
+        bottom: 17px;
+    }
+
+    .inner_banner {
+        padding: 50px 0;
+    }
+
+    .contact_box {
+        bottom: -190px;
+    }
+
+    .rest_of_team {
+        padding: 30px 0;
+    }
+
+    .team_slider,
+    .rest_of_team .title_main {
+        margin-left: 10px;
+    }
+
+    .contact_wrapp_main {
+        margin-bottom: 170px;
+    }
+
+    .contact_help .swiper-button-prev {
+        left: 10px;
+    }
+
+    .contact_help .swiper-button-next {
+        left: 60px;
+    }
+
+    .contact_help .swiper-button-next, .contact_help .swiper-button-prev {
+        bottom: 0;
+    }
+
+    .contact_help_slider_in .swiper-pagination {
+        bottom: 20px;
+        width: 45%;
+        left: 30%;
+    }
+
+    .contact_help_slider_in .image-slider__fraction {
+        bottom: 13px;
+    }
+
+    .contact_help_slider .contact_box {
+        width: 100%;
+    }
+
+    .contact_help_slider .contact_box {
+        bottom: 0;
+        position: relative;
+        margin-top: -60px;
+    }
+
+    .contact_help_slider_in {
+        padding-bottom: 0;
+    }
+
+    .expertise_main_banner {
+        padding: 30px 0 60px;
+    }
+
+    .faq_wrapp {
+        padding: 90px 0 70px;
+    }
+
+    .faq_wrapp:before {
+        left: 75%;
+    }
+
+    .expertise_main_banner.second {
+        background-size: cover;
+    }
+
+    .contact_help.second:after {
+        top: -190px;
+        right: 0;
+        width: 300px;
+        height: 600px;
+        background-size: 300px;
+    }
+
+    .contact_help:before {
+        left: 0;
+        bottom: -110px;
+        background: url(../images/contact-shape1.svg) left bottom no-repeat;
+        background-size: 300px;
+        width: 300px;
+        height: 500px;
+    }
+
+    .enterprise.second .awards_wrapp_text {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .rest_of_team.second:after {
+        top: -81px;
+        right: 0;
+    }
+
+    .rest_of_team.second {
+        padding: 60px 0 30px;
+    }
+
+    .information_hub.second {
+        padding: 50px 0 50px 10px;
+    }
+
+    .blog_main .nav-pills .nav-link {
+        margin: 0 2px;
+        padding: 15px 20px;
+        font-size: 13px;
+    }
+
+    .insight_banner_inner {
+        width: 100%;
+    }
+
+    .insight_banner {
+        margin-bottom: 10px;
+    }
+
+    .insight_banner_img {
+        margin-bottom: -150px;
+    }
+
+    .event_location_left ul li {
+        margin-bottom: 20px;
+    }
+
+    .careers_menu ul {
+        text-align: left;
+    }
+
+    .careers_menu ul li {
+        display: block;
+        padding: 0;
+    }
+
+    .careers_menu ul li a {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .about_wrapp_one_inner, .about_wrapp_one.second .about_wrapp_one_inner {
+        padding: 20px 20px 90px 20px;
+    }
+
+    .value_wrapp {
+        margin-top: 60px;
+    }
+
+    .job_detail_main {
+        padding: 60px 0 30px;
+    }
+
+    .related_job {
+        padding: 60px 0 40px;
+    }
+
+    .value_wrapp:before {
+        left: 80%;
+        height: 100px;
+    }
+
+    .value_main .value_box {
+        width: 92%;
+    }
+
+    .instagram_wrapp .title_main {
+        width: 100%;
+    }
+
+    .awards_wrapp_img img {
+        height: 250px;
+    }
+
+    .video_popup iframe {
+        width: 300px;
+        height: 170px;
+    }
+
+    .video_popup .modal-dialog {
+        max-width: 300px;
+        margin: 50% auto;
+    }
+
+    .contact_help.second {
+        padding: 60px 0;
+    }
+
+    .case_study.second {
+        padding: 100px 0 60px;
+    }
+
+    .people_detail_one_text{
+        margin-top: 30px;
+    }
+
+    .excel_wrapp {
+        padding: 60px 0;
+    }
+
+    .career_highlights {
+        padding: 60px 0 30px;
+    }
+
+
+
+    .keynote_speaker .swiper-pagination {
+        bottom: 79px;
+        width: 54%;
+    }
+    .keynote_speaker .image-slider__fraction {
+        bottom: 73px;
+    }
+
+
+
+
+}
+
